@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://coblotori.github.io/sitemap
+Sitemap: https://coblotori.github.io/app/sitemap
+Sitemap: https://coblotori.github.io/assets/sitemap
+Sitemap: https://coblotori.github.io/css/sitemap
+Sitemap: https://coblotori.github.io/includes/sitemap
+Sitemap: https://coblotori.github.io/item/sitemap
+Sitemap: https://coblotori.github.io/src/sitemap
